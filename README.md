@@ -14,7 +14,7 @@
 
 ## Tecnologias que estou aprendendo:
 
-| Tecnologia        | Imagem                                      |
+| Tecnologia        |                             |
 |-------------------|---------------------------------------------|
 | JavaScript        | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) |
 | TypeScript        | ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) |
