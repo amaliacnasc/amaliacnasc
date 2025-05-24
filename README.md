@@ -4,9 +4,7 @@
 
 👀 I’m interested in languages and coffee.
 
-💞️ I’m currently learning **NodeJS**.
-
-💞️ I want to work as a **backend developer**.
+💞️ I’m a servicenow developer 
 
 📫 You can reach me at [amaliacnasc@gmail.com](mailto:amaliacnasc@gmail.com).
 
